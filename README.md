@@ -1,4 +1,3 @@
-# gramkart-site
 # 🌾 GramKart – Empowering Rural Artisans
 
 **GramKart** is a voice-based mobile web app designed to help rural artisans like Meena ji sell handmade products without needing digital literacy.
